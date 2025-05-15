@@ -14,6 +14,7 @@
 ### Установка и запуск
 
 git clone git@github.com:HoverLife/test_task_AKBARS.git
+
 cd credit_scoring
 
 Установка зависимостей
